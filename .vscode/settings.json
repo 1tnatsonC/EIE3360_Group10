@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "EIE3360_Group10_wwi.sln"
+    "dotnet.defaultSolution": "EIE3360_Group10.sln"
 }
