@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1841
     height: 1037
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Inspector
   m_RootView: {fileID: 4}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 100}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 72
+  controlID: 136
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -151,7 +151,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 100}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 163
+  controlID: 168
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -543,9 +543,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0ce9ffff
-      m_LastClickedID: -5876
-      m_ExpandedIDs: 2cfbffff
+      m_SelectedIDs: 886c0000
+      m_LastClickedID: 27784
+      m_ExpandedIDs: 2cfbffff886c0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -661,7 +661,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Prefabs
+    - Assets/Terrain
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -669,16 +669,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Prefabs
+  - Assets/Terrain
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\user\Downloads\EIE3360_Group10
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: fc740000
-    m_LastClickedID: 29948
-    m_ExpandedIDs: 000000009674000000ca9a3bffffff7f
+    m_SelectedIDs: f0740000
+    m_LastClickedID: 29936
+    m_ExpandedIDs: 00000000ba74000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -706,7 +706,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 0000000096740000
+    m_ExpandedIDs: 00000000ba740000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -899,7 +899,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 1
       snapOffset: {x: -156, y: -26}
-      snapOffsetDelta: {x: 0, y: 0}
+      snapOffsetDelta: {x: -10, y: 0}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -1316,13 +1316,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.30172226, y: 0.1555344, z: -0.04996116, w: -0.9392989}
+    m_Target: {x: -0.31050766, y: -0.33959717, z: 0.119860426, w: -0.8797195}
     speed: 2
-    m_Value: {x: -0.30179596, y: 0.15412481, z: -0.049508374, w: -0.9395284}
+    m_Value: {x: -0.30900618, y: -0.3410941, z: 0.11981369, w: -0.8796674}
   m_Size:
-    m_Target: 22.510967
+    m_Target: 83.70274
     speed: 2
-    m_Value: 21.541595
+    m_Value: 80.09832
   m_Ortho:
     m_Target: 0
     speed: 2
